@@ -1,0 +1,10 @@
+
+# ignore everything by default, but do traverse directories
+*
+!*/
+
+# whitelist
+!.gitignore
+!*.yaml
+!*.uri
+!*.url
