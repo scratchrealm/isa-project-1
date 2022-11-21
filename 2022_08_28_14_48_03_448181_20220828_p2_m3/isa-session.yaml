@@ -1,0 +1,8 @@
+audio_sr_hz: 192000
+dataset_id: 2022_08_28_14_48_03_448181_20220828_p2_m3
+duration_sec: 600.0
+video_dims:
+- 512
+- 640
+video_sr_hz: 30.0
+video_uri: sha1://2416f7bea57608c667bc6f865dbdaac9a924106d
