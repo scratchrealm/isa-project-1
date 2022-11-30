@@ -1,0 +1,8 @@
+audio_sr_hz: 200000
+dataset_id: EXAMPLE_WAV
+duration_sec: 301.698
+video_dims:
+- 512
+- 640
+video_sr_hz: 30.0
+video_uri: sha1://54c5a68707779d3e920c70443bced94250154af1

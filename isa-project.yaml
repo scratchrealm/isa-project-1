@@ -2,4 +2,5 @@ repository_url: https://github.com/scratchrealm/isa-project-1
 sessions:
 - '2022_01_17_13_59_02_792530'
 - 2022_08_28_14_48_03_448181_20220828_p2_m3
+- EXAMPLE_WAV
 use_singularity_for_ffmpeg: false
